@@ -8,8 +8,8 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-    ![Php](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+
 
 <br>   
     
