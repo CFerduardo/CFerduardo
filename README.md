@@ -8,7 +8,7 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
 
 
 <br>   
