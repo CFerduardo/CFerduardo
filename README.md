@@ -20,7 +20,7 @@
     
 - **Front-End Development**:
 
-   [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=npm,bootstrap,tailwind)](https://skillicons.dev)
 
 <br>
 
@@ -32,7 +32,7 @@
 
 - **Softwares and Tools**:
 
-     [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,vscode,tailwind,postgres,laravel,bootstrap,phpstorm)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,vscode,postgres,laravel,phpstorm)](https://skillicons.dev)
 </p>
 
 <br>
