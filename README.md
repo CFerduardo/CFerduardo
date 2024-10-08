@@ -18,7 +18,7 @@
 
 <br>   
     
-- **Frameworks and Databases**::
+- **Frameworks and Databases**:
 
    [![My Skills](https://skillicons.dev/icons?i=laravel,symfony,mysql,postgres)](https://skillicons.dev)
 
