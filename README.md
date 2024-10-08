@@ -9,7 +9,7 @@
 
 - **Languages**:
     
-    ![My Skills](https://icons?i=php,html,css)
+    ![My Skills](https://skillicons.devicons?i=php,html,css)
 
 
 <br>   
