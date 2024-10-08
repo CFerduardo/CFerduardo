@@ -18,15 +18,16 @@
 
 <br>   
     
+- **Cloud Hosting**::
+
+   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+<br>
+
 - **Front-End Development**:
 
    [![My Skills](https://skillicons.dev/icons?i=npm,bootstrap,tailwind)](https://skillicons.dev)
 
-<br>
-
-- **Cloud Hosting**:
-
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
     
 <br>
 
