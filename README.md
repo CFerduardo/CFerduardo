@@ -26,13 +26,13 @@
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
     
 <br>
 
 - **Softwares and Tools**:
 
-     [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,vscode,postgres,laravel,phpstorm,postman,symfony,wordpress)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=git,github,linux,windows,docker,vscode,laravel,phpstorm,postman,symfony,wordpress)](https://skillicons.dev)
 </p>
 
 <br>
