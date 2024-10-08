@@ -18,9 +18,9 @@
 
 <br>   
     
-- **Cloud Hosting**::
+- **Frameworks and Databases**::
 
-   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=laravel,symfony,mysql,postgres)](https://skillicons.dev)
 
 <br>
 
@@ -33,7 +33,7 @@
 
 - **Softwares and Tools**:
 
-     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,postman,vscode,phpstorm,linux,windows,laravel,symfony)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,postman,vscode,phpstorm,linux,windows)](https://skillicons.dev)
 </p>
 
 <br>
