@@ -26,7 +26,7 @@
 
 - **Front-End Development**:
 
-   [![My Skills](https://skillicons.dev/icons?i=npm,bootstrap,tailwind,vue)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=npm,bootstrap,tailwind,vue,htmx)](https://skillicons.dev)
 
     
 <br>
