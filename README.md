@@ -12,7 +12,7 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php)](https://skillicons.dev)
 
 
 
@@ -20,7 +20,7 @@
     
 - **Frameworks and Databases**:
 
-   [![My Skills](https://skillicons.dev/icons?i=django,angular,reat,laravel,symfony,sqlserve,rmysql,postgres)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=django,flask,angular,react,laravel,symfony,boostrap,sqlserve,mongodb,rmysql,postgres)](https://skillicons.dev)
 
 <br>
 
@@ -33,7 +33,7 @@
 
 - **Softwares and Tools**:
 
-     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,wordpress,postman,vscode,phpstorm,linux,windows)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,nodejs,npm,wordpress,postman,pycharm,vscode,phpstorm,linux,windows)](https://skillicons.dev)
 </p>
 
 <br>
