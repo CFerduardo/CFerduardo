@@ -20,7 +20,7 @@
     
 - **Frameworks and Databases**:
 
-   [![My Skills](https://skillicons.dev/icons?i=laravel,symfony,mysql,postgres)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=django,angular,reat,laravel,symfony,sqlserve,rmysql,postgres)](https://skillicons.dev)
 
 <br>
 
