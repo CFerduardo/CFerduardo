@@ -33,7 +33,7 @@
 
 - **Softwares and Tools**:
 
-     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,nodejs,npm,wordpress,postman,pycharm,vscode,phpstorm,linux,windows)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,nodejs,wordpress,postman,pycharm,vscode,phpstorm,linux,windows)](https://skillicons.dev)
 </p>
 
 <br>
