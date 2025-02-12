@@ -12,7 +12,7 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php,rust)](https://skillicons.dev)
 
 
 
