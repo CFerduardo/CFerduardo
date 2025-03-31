@@ -20,7 +20,7 @@
     
 - **Frameworks and Databases**:
 
-   [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,angular,react,laravel,symfony,mongodb,mysql,postgres)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,angular,react,laravel,symfony,mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
 
 <br>
 
@@ -33,7 +33,7 @@
 
 - **Softwares and Tools**:
 
-     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,nodejs,linux,wordpress,postman,pycharm,vscode,phpstorm,windows)](https://skillicons.dev)
+     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,nodejs,linux,wordpress,postman,pycharm,vscode,phpstorm,anaconda,ubuntu,windows)](https://skillicons.dev)
 </p>
 
 <br>
