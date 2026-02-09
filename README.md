@@ -12,13 +12,9 @@
 
 - **Technologies**:
     
-   [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php,rust,django,flask,fastapi,angular,react,laravel,symfony,mongodb,mysql,postgres,sqlite,npm,bootstrap,tailwind,vue,htmx)](https://skillicons.dev)
-
+   [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php,rust,django,flask,fastapi,angular,react,laravel,symfony,mongodb,mysql,postgres,sqlite,npm,bootstrap,tailwind,vue,htmx,git,github,docker,nodejs,linux,wordpress,postman,pycharm,vscode,phpstorm,anaconda,ubuntu,windows)](https://skillicons.dev)
 <br>
 
-- **Softwares and Tools**:
-
-     [![My Skills](https://skillicons.dev/icons?i=git,github,docker,nodejs,linux,wordpress,postman,pycharm,vscode,phpstorm,anaconda,ubuntu,windows)](https://skillicons.dev)
 </p>
 
 <br>
