@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=36BCF7%26size&size=30&lines=<?=++++Hello..!+I'm+Carlos+;+Backend+Developer;Database+Administrator+(DBA);Databases,+Api,+Docker+?>)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=E05D44%26size&size=30&lines=<?=++++Hello..!+I'm+Carlos+;+Backend+Developer;Database+Administrator+(DBA);Databases,+Api,+Docker+?>)](https://git.io/typing-svg)
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Projects...</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -12,7 +12,7 @@
 
 - **Languages**:
     
-    [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php,rust,java)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php,rust)](https://skillicons.dev)
 
 
 
