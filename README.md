@@ -10,25 +10,12 @@
 
 <p align="center">
 
-- **Languages**:
+- **Technologies**:
     
-    [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php,rust)](https://skillicons.dev)
-
-
-
-<br>   
-    
-- **Frameworks and Databases**:
-
+   [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,php,rust)](https://skillicons.dev)
    [![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,angular,react,laravel,symfony,mongodb,mysql,postgres,sqlite)](https://skillicons.dev)
-
-<br>
-
-- **Front-End Development**:
-
    [![My Skills](https://skillicons.dev/icons?i=npm,bootstrap,tailwind,vue,htmx)](https://skillicons.dev)
 
-    
 <br>
 
 - **Softwares and Tools**:
