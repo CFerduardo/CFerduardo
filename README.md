@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22840D&size=30&width=600&duration=3800&pause=1000&center=false&vCenter=false&lines=Root:~%24+I'm+Carlos;Backend+Engineer+%26+DBA;Designing+Scalable+Architectures;Optimizing+Data+Reliability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22840D&size=30&width=600&duration=3000&pause=1000&center=false&vCenter=false&lines=Root:~%24+I'm+Carlos;Backend+Engineer+%26+DBA;Designing+Scalable+Architectures;Optimizing+Data+Reliability)](https://git.io/typing-svg)
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Projects...</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
