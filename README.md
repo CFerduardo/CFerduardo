@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22840d&size=30&duration=4000&pause=1000&lines=Root:~%24+Hello!+Pleased+to+meet+you,+I'm+Carlos+;Carlos:+Backend+Dev+%26+DBA;Stack:+Python,+Rust,+SQL;Containerizing+with+Docker...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22840d&size=30&duration=4000&pause=1000&lines=Root:~%24+I'm+Carlos;Backend+Engineer+%26+DBA;Carlos:+Backend+Dev+%26+DBA;Stack:+Python,+Rust,+SQL;Containerizing+with+Docker...)](https://git.io/typing-svg)
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Projects...</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
