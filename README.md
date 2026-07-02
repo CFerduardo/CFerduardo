@@ -3,11 +3,9 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Projects...</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
-  <a href="https://github.com/CFerduardo/Control-SQL-server-Multi-Server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CFerduardo&repo=Control-SQL-server-Multi-Server&title_color=7A7ADB&icon_color=22840D&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" />
-  </a>
-</div>
+| Proyecto | Descripción | Stack Tecnológico | Enlace |
+| :--- | :--- | :--- | :--- |
+| 🗄️ **Control SQL Server Multi-Server** | Sistema diseñado para centralizar, automatizar y gestionar tareas de sincronización y control de datos a través de múltiples servidores de bases de datos distribuidos. | `T-SQL` `SQL Server` | [Ver Repositorio](https://github.com/CFerduardo/Control-SQL-server-Multi-Server) |
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
