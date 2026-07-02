@@ -1,6 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22840D&size=30&width=600&duration=3000&pause=1000&center=false&vCenter=false&lines=Root:~%24+I'm+Carlos;Backend+Engineer+%26+DBA;Designing+Scalable+Architectures;Optimizing+Data+Reliability)](https://git.io/typing-svg)
 <br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Projects...</b>
+<br>
+
+<p align="center">
+- **Technologies**:
+    
+   [![My Skills](https://skillicons.dev/icons?i=py,rust,js,html,css,bash,django,flask,fastapi,aws,redis,mongodb,mysql,postgres,sqlite,cassandra,gcp,graphql,prisma,nestjs,npm,nodejs,git,github,docker,postman,pycharm,anaconda,linux,ubuntu,windows,vscode)](https://skillicons.dev)
+<br>
+</p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Projects...</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 | Proyecto | Descripción | Stack Tecnológico | Enlace |
@@ -13,20 +25,7 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
-<p align="center">
-
-- **Technologies**:
-    
-   [![My Skills](https://skillicons.dev/icons?i=py,rust,js,html,css,bash,django,flask,fastapi,aws,redis,mongodb,mysql,postgres,sqlite,cassandra,gcp,graphql,prisma,nestjs,npm,nodejs,git,github,docker,postman,pycharm,anaconda,linux,ubuntu,windows,vscode)](https://skillicons.dev)
-<br>
-
-</p>
-
-<br>
-<br>
 
 -----
 
