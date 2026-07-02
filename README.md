@@ -6,6 +6,10 @@
 | Proyecto | Descripción | Stack Tecnológico | Enlace |
 | :--- | :--- | :--- | :--- |
 | 🗄️ **Control SQL Server Multi-Server** | Sistema diseñado para centralizar, automatizar y gestionar tareas de sincronización y control de datos a través de múltiples servidores de bases de datos distribuidos. | `T-SQL` `SQL Server` | [Ver Repositorio](https://github.com/CFerduardo/Control-SQL-server-Multi-Server) |
+| Proyecto | Descripción | Stack Tecnológico | Enlace |
+| :--- | :--- | :--- | :--- |
+| 🗄️ **Control SQL Server Multi-Server** | Sistema diseñado para centralizar, automatizar y gestionar tareas de sincronización y control de datos a través de múltiples servidores de bases de datos distribuidos. | `T-SQL` `SQL Server` | [Ver Repositorio](https://github.com/CFerduardo/Control-SQL-server-Multi-Server) |
+| 🚀 **Nombre de tu Próximo Proyecto** | Descripción clara de lo que hace el software, el problema que resuelve o su impacto en la arquitectura de datos. | `Python` `Flask` `PostgreSQL` | [Ver Repositorio](https://github.com/CFerduardo/NUEVO_REPOSITORIO) |
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
