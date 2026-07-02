@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22840D&size=30&width=600&duration=3000&pause=1000&center=false&vCenter=false&lines=Root:~%24+I'm+Carlos;Backend+Engineer+%26+DBA;Designing+Scalable+Architectures;Optimizing+Data+Reliability)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22840D&size=28&width=650&duration=3500&pause=1000&lines=cesf@backend%3A~%24+whoami;Carlos+%7C+Backend+Engineer+%26+DBA;cesf@backend%3A~%24+./skills+--focus;Designing+Scalable+Architectures;Optimizing+Database+Performance)](https://git.io/typing-svg)
 <br>
 <br>
 
